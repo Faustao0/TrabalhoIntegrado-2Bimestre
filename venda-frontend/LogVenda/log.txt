@@ -1,0 +1,17 @@
+2024-06-07 16:17:14 - Operação: Finalizar Venda - Status: Sucesso
+2024-06-07 16:18:10 - Operação: Finalizar Venda - Status: Sucesso
+2024-06-07 16:27:34 - Operação: Finalizar Venda - Status: Sucesso
+07/06/2024 16:32:12 - Operação: Finalizar Venda - Status: Sucesso
+08/06/2024 14:55:00 - Operação: Finalizar Venda - Status: Sucesso
+08/06/2024 14:59:07 - Operação: Finalizar Venda - Status: Sucesso
+08/06/2024 17:21:17 - Operação: Finalizar Venda - Status: Sucesso
+09/06/2024 15:49:38 - Operação: Finalizar Venda - Status: Sucesso
+09/06/2024 16:09:58 - Operação: Finalizar Venda - Status: Sucesso
+09/06/2024 16:37:59 - Operação: Finalizar Venda - Status: Sucesso
+09/06/2024 17:38:39 - Operação: Finalizar Venda - Status: Sucesso
+09/06/2024 18:45:34 - Operação: Finalizar Venda - Status: Sucesso
+09/06/2024 19:09:09 - Operação: Finalizar Venda - Status: Sucesso
+09/06/2024 19:10:56 - Operação: Finalizar Venda - Status: Sucesso
+09/06/2024 19:26:34 - Operação: Finalizar Venda - Status: Sucesso
+09/06/2024 19:47:21 - Operação: Finalizar Venda - Status: Sucesso
+09/06/2024 21:26:29 - Operação: Finalizar Venda - Status: Sucesso
